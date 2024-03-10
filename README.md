@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection-Through-Deep-Representation-Learning
 This project was developed for the course of Numerical Analysis For Machine Learnig for the MSc. in Mathematical Engineering at Politecnico di Milano, A.Y. 2023/2024.
 
 ## Description
